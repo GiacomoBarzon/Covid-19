@@ -13,3 +13,9 @@ Display of v-a trajectories, effect of various parameters from the epidemiologic
 
 - Models comparison:<br>
 Performance of each model based on AIC value. Analysis on the effectiveness of the introduction of weights and acceleration terms.
+
+- SIRtype comparison:<br>
+Comparison btw SIR, SIAR and SEIAR.
+
+- Reproductive number:<br>
+Analsysis on reproductive number R0 from SIR, SIAR and SEIAR.
