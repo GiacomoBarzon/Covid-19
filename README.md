@@ -17,5 +17,5 @@ Performance of each model based on AIC value. Analysis on the effectiveness of t
 - SIRtype comparison:<br>
 Comparison btw SIR, SIAR and SEIAR.
 
-- Reproductive number:<br>
+- Basic reproductive number:<br>
 Analsysis on reproductive number R0 from SIR, SIAR and SEIAR.
