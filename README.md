@@ -12,10 +12,10 @@ Optimization of each model wrt va and F time series.
 Display of v-a trajectories, effect of various parameters from the epidemiological models in the v-a trend, comparison btw different time dependencies of the infection rate.
 
 - Models comparison:<br>
-Performance of each model based on AIC value. Analysis on the effectiveness of the introduction of weights and acceleration terms.
+Analysis of performance of each model based on AIC value. Analysis on the effectiveness of the introduction of weights and acceleration terms.
 
 - SIRtype comparison:<br>
-Comparison btw SIR, SIAR and SEIAR.
+Comparison btw SIR, SIAR and SEIAR trajectories in va plot.
 
 - Basic reproductive number:<br>
 Analsysis on reproductive number R0 from SIR, SIAR and SEIAR.
