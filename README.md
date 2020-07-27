@@ -6,7 +6,7 @@ A novel approach to study COVID-19 is done by defining velocity and acceleration
 Class for the handling of the automatic loading of time series and lockdown dates, simulation of epidemiological models and optimization of their parameters with minimization algorithms.
 
 - Training/ tryhard_train - original_tryhard_train:<br>
-Optimization of each model wrt va and F time series.
+Template for the optimization of each model wrt va and F time series.
 
 - Data visualization:<br>
 Display of v-a trajectories, effect of various parameters from the epidemiological models in the v-a trend, comparison btw different time dependencies of the infection rate.
@@ -19,3 +19,6 @@ Comparison btw SIR, SIAR and SEIAR trajectories in va plot.
 
 - Basic reproductive number:<br>
 Analsysis on reproductive number R0 from SIR, SIAR and SEIAR.
+
+- Residual vs time:<br>
+Display and analysis of the time evolution of the difference btw model and experimental data.
