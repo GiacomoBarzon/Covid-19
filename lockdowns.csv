@@ -1,0 +1,201 @@
+,Country/Region,Date
+0,China,2020-01-23
+1,Hong Kong,2020-03-23
+2,Macau,2020-01-26
+3,Taiwan,2020-02-02
+4,US,2020-03-23
+5,Japan,2020-02-27
+6,Thailand,2020-03-22
+7,"Korea, South",2020-02-23
+8,Singapore,2020-03-26
+9,Philippines,2020-03-16
+10,Malaysia,2020-03-18
+11,Vietnam,2020-03-19
+12,Australia,2020-03-25
+13,Mexico,2020-03-14
+14,Brazil,
+15,Colombia,2020-03-25
+16,France,2020-03-16
+17,Nepal,2020-03-24
+18,Canada,2020-03-16
+19,Cambodia,2020-03-28
+20,Sri Lanka,2020-03-21
+21,Ivory Coast,2020-03-24
+22,Germany,2020-03-20
+23,Finland,2020-03-27
+24,United Arab Emirates,2020-03-24
+25,India,2020-03-24
+26,Italy,2020-03-11
+27,United Kingdom,2020-03-23
+28,Russia,2020-03-27
+29,Sweden,
+30,Spain,2020-03-14
+31,Belgium,2020-03-17
+32,Egypt,2020-03-24
+33,Iran,2020-03-15
+34,Israel,2020-03-12
+35,Lebanon,2020-03-16
+36,Iraq,2020-03-22
+37,Oman,2020-03-29
+38,Afghanistan,2020-03-24
+39,Bahrain,2020-02-25
+40,Kuwait,2020-03-16
+41,Austria,2020-03-16
+42,Algeria,2020-03-24
+43,Croatia,2020-03-22
+44,Switzerland,2020-03-18
+45,Pakistan,2020-03-26
+46,Georgia,2020-03-22
+47,Greece,2020-03-18
+48,North Macedonia,2020-03-18
+49,Norway,2020-03-12
+50,Romania,2020-03-25
+51,Denmark,2020-03-11
+52,Estonia,2020-03-13
+53,Netherlands,2020-03-24
+54,San Marino,2020-03-09
+55,Belarus,
+56,Iceland,2020-03-16
+57,Lithuania,2020-03-16
+58,New Zealand,2020-03-25
+59,Nigeria,2020-03-25
+60,North Ireland,2020-03-23
+61,Ireland,2020-03-12
+62,Luxembourg,2020-03-16
+63,Monaco,2020-03-17
+64,Qatar,2020-03-11
+65,Ecuador,2020-03-24
+66,Azerbaijan,2020-03-02
+67,Czech Republic,2020-03-16
+68,Armenia,2020-03-24
+69,Dominican Republic,2020-03-17
+70,Indonesia,
+71,Portugal,2020-03-18
+72,Andorra,2020-03-16
+73,Latvia,2020-03-13
+74,Morocco,2020-03-16
+75,Saudi Arabia,2020-03-15
+76,Senegal,2020-03-24
+77,Argentina,2020-03-20
+78,Chile,2020-03-26
+79,Jordan,2020-03-21
+80,Ukraine,2020-03-17
+81,Saint Barthelemy,
+82,Hungary,2020-03-16
+83,Faroe Islands,2020-03-12
+84,Gibraltar,2020-03-24
+85,Liechtenstein,
+86,Poland,2020-03-12
+87,Tunisia,2020-03-20
+88,Palestine,2020-03-05
+89,Bosnia and Herzegovina,2020-03-11
+90,Slovenia,2020-03-11
+91,South Africa,2020-03-26
+92,Bhutan,2020-03-06
+93,Cameroon,
+94,Costa Rica,2020-03-15
+95,Peru,2020-03-10
+96,Serbia,2020-03-15
+97,Slovakia,2020-03-09
+98,Togo,2020-03-20
+99,Vatican City,2020-03-10
+100,French Guiana,
+101,Malta,2020-03-12
+102,Martinique,2020-03-20
+103,Republic of Ireland,2020-03-12
+104,Bulgaria,2020-03-13
+105,Maldives,2020-03-11
+106,Bangladesh,2020-03-19
+107,Moldova,2020-03-11
+108,Paraguay,2020-03-15
+109,Albania,2020-03-08
+110,Cyprus,2020-03-25
+111,St. Martin,
+112,Brunei,
+113,Burkina Faso,2020-03-21
+114,Channel Islands,
+115,Holy See,
+116,Mongolia,2020-03-10
+117,Panama,2020-03-25
+118,Bolivia,2020-03-12
+119,Honduras,2020-03-20
+120,DR Congo,
+121,Jamaica,2020-03-12
+122,Reunion,
+123,Turkey,2020-03-23
+124,Cuba,
+125,Guyana,
+126,Kazakhstan,
+127,Cayman Islands,
+128,Guadeloupe,
+129,Ethiopia,2020-03-16
+130,Sudan,
+131,Guinea,
+132,Antigua and Barbuda,
+133,Aruba,2020-03-16
+134,Kenya,2020-03-15
+135,Uruguay,2020-03-16
+136,Ghana,2020-03-15
+137,Jersey,2020-03-18
+138,Namibia,2020-03-14
+139,Seychelles,
+140,Trinidad and Tobago,2020-03-13
+141,Venezuela,2020-03-16
+142,Curacao,
+143,Eswatini,
+144,Gabon,
+145,Guatemala,
+146,Guernsey,2020-03-19
+147,Mauritania,
+148,Rwanda,2020-03-16
+149,Saint Lucia,2020-03-20
+150,Saint Vincent and the Grenadines,
+151,Suriname,
+152,Kosovo,2020-03-25
+153,Central African Republic,
+154,Congo (Brazzaville),
+155,Equatorial Guinea,
+156,Uzbekistan,2020-03-20
+157,Guam,2020-03-26
+158,Puerto Rico,2020-03-13
+159,Benin,
+160,Greenland,
+161,Liberia,
+162,Mayotte,
+163,Republic of the Congo,
+164,Somalia,2020-03-19
+165,Tanzania,
+166,The Bahamas,2020-03-20
+167,Barbados,2020-03-28
+168,Montenegro,2020-03-24
+169,The Gambia,
+170,Kyrgyzstan,2020-03-24
+171,Mauritius,2020-03-17
+172,Zambia,
+173,Djibouti,
+174,Chad,
+175,El Salvador,
+176,Fiji,
+177,Nicaragua,
+178,Madagascar,
+179,Haiti,
+180,Angola,
+181,Niger,
+182,Papua New Guinea,
+183,Zimbabwe,
+184,Cape Verde,
+185,East Timor,
+186,Eritrea,
+187,Uganda,2020-03-18
+188,Dominica,
+189,Grenada,
+190,Mozambique,
+191,Syria,
+192,Belize,
+193,Laos,
+194,Libya,
+195,Diamond Princess,
+196,Guinea-Bissau,
+197,Mali,2020-03-18
+198,Saint Kitts and Nevis,
+199,Burma,
